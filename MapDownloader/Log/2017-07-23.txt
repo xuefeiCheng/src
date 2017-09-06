@@ -1,6 +1,0 @@
-2017-07-23 16:14:36,610 GMapDownload.TileDownloader:0 INFO  - One thread download complete.
-2017-07-23 16:14:40,790 GMapDownload.TileDownloader:0 INFO  - One thread download complete.
-2017-07-23 16:14:40,962 GMapDownload.TileDownloader:0 INFO  - One thread download complete.
-2017-07-23 16:14:42,023 GMapDownload.TileDownloader:0 INFO  - One thread download complete.
-2017-07-23 16:14:42,397 GMapDownload.TileDownloader:0 INFO  - One thread download complete.
-2017-07-23 16:14:44,503 GMapDownload.TileDownloader:0 INFO  - Download failed tiles complete.
